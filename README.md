@@ -6,9 +6,11 @@ I build AI systems that know when they might be wrong: agent pipelines where a m
 
 I'm finishing a double major in Computer Science and Mathematics at Hamilton College in 3.5 years, graduating December 2026, and moving to San Francisco in 2027. I like building products people can actually use and trust.
 
-### 🌱 What I've worked on
+### What I am working on
 
 - **GiSuN**: a fact-checking pipeline for chatbot answers that checks numbers against official data sources (BLS, Census, World Bank and more)
+
+### What I have worked on
 - **AI for scientific research**: summer research on LLM agents for interpreting genetic variants, supported by a research grant
 - **Data Intern, Hamilton College Health Center** (2024–2026): working with real campus health data
 

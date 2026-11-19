@@ -4,7 +4,7 @@
 
 I build AI systems that know when they might be wrong: agent pipelines where a model does the reading, deterministic code makes the final call, and every result comes with the reason behind it.
 
-I'm finishing a double major in Computer Science and Mathematics at Hamilton College in 3.5 years, graduating December 2026, and moving to San Francisco in 2027. I like building products people can actually use and trust.
+I'm finishing a double major in Computer Science and Mathematics at Hamilton College in 3.5 years, graduating December 2026, and moving to San Francisco in 2027. I aim to build products people can actually use and trust.
 
 ### What I am working on
 

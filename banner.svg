@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#F4ECD8"/>
+  <!-- hills -->
+  <path d="M640 300 C760 205 900 215 1010 245 C1090 265 1150 250 1200 230 L1200 300 Z" fill="#C9D6E8"/>
+  <path d="M560 300 C700 245 860 250 980 275 C1060 290 1140 282 1200 270 L1200 300 Z" fill="#9FB4D3"/>
+  <!-- chapel -->
+  <g fill="#FFFFFF" stroke="#1B2F5E" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="850" y="168" width="130" height="92"/>
+    <path d="M840 170 L915 128 L990 170 Z"/>
+    <rect x="895" y="98" width="40" height="34"/>
+    <rect x="901" y="70" width="28" height="28"/>
+    <path d="M897 72 L915 22 L933 72 Z"/>
+  </g>
+  <g fill="#1B2F5E">
+    <rect x="904" y="210" width="22" height="50" rx="11"/>
+    <rect x="868" y="190" width="14" height="26" rx="7"/><rect x="948" y="190" width="14" height="26" rx="7"/>
+    <circle cx="915" cy="152" r="7"/>
+    <rect x="910" y="108" width="10" height="16" rx="5"/>
+  </g>
+  <!-- trees -->
+  <g fill="#1B2F5E" opacity="0.85">
+    <path d="M790 262 L808 212 L826 262 Z"/><path d="M1020 266 L1036 222 L1052 266 Z"/><path d="M1060 270 L1073 236 L1086 270 Z"/>
+  </g>
+  <!-- text -->
+  <text x="80" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#1B2F5E">Suning Hong</text>
+  <rect x="82" y="168" width="70" height="4" fill="#C8A04B"/>
+  <text x="82" y="214" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#2E4A85">Computer Science + Mathematics · Hamilton College</text>
+</svg>

@@ -2,17 +2,17 @@
 
 ### Hi, I'm Suning 👋
 
-I build AI systems that **know when they might be wrong**: agent pipelines where a model does the reading, deterministic code makes the final call, and every result comes with the reason behind it.
+I build AI systems that know when they might be wrong: agent pipelines where a model does the reading, deterministic code makes the final call, and every result comes with the reason behind it.
 
-I'm finishing a double major in **Computer Science and Mathematics** at Hamilton College in 3.5 years, graduating December 2026, and moving to **San Francisco** in 2027. I like building products people can actually use and trust.
+I'm finishing a double major in Computer Science and Mathematics at Hamilton College in 3.5 years, graduating December 2026, and moving to San Francisco in 2027. I like building products people can actually use and trust.
 
 ### 🌱 What I've worked on
 
-- 🔍 **GiSuN**: a fact-checking pipeline for chatbot answers that checks numbers against official data sources (BLS, Census, World Bank and more)
-- 🧬 **AI for scientific research**: summer research on LLM agents for interpreting genetic variants, supported by a research grant
-- 🏥 **Data Intern, Hamilton College Health Center** (2024–2026): working with real campus health data
+- **GiSuN**: a fact-checking pipeline for chatbot answers that checks numbers against official data sources (BLS, Census, World Bank and more)
+- **AI for scientific research**: summer research on LLM agents for interpreting genetic variants, supported by a research grant
+- **Data Intern, Hamilton College Health Center** (2024–2026): working with real campus health data
 
-Outside of code, I've hosted admissions events for ACULAC in five cities across China, and I work comfortably in both English and Mandarin.
+Outside of code, I work comfortably in both English and Mandarin.
 
 ---
 

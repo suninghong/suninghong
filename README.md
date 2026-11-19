@@ -8,7 +8,7 @@ I'm finishing a double major in Computer Science and Mathematics at Hamilton Col
 
 ### What I am working on
 
---**GiSuN** (CS senior seminar, team of two): a Chrome extension and multi-agent pipeline that reads ChatGPT answers and flags claims a reader should question
+- **GiSuN** (CS senior seminar, team of two): a Chrome extension and multi-agent pipeline that reads ChatGPT answers and flags claims a reader should question
   - Checks six kinds of problems: unsourced statistics, wrong numbers, loaded wording, overgeneralizations, vague attributions and unsupported cause-and-effect claims
   - I built the number-checking part: it looks up the official figure from BLS, Census, FRED, CDC, World Bank and Data Commons, and **code, not the model, decides** whether the claim matches
   - Runs a self-hosted Qwen2.5-32B model on Hamilton's GPU cluster, with a Plan → Task → Check → Judge agent loop that rejects and retries decisions that aren't backed by evidence

@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="Suning Hong — Computer Science + Mathematics, Hamilton College" width="100%"/>
 
-### Hi, I'm Suning 👋
+### Hi, I'm Suning!
 
 I build AI systems that know when they might be wrong: agent pipelines where a model does the reading, deterministic code makes the final call, and every result comes with the reason behind it.
 

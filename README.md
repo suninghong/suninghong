@@ -56,7 +56,6 @@ Summer research project: a framework for using LLM agents to help interpret gene
 
 ---
 
-### 🧰 Toolbox
 
 ### 🧰 Toolbox
 
